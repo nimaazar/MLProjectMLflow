@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nimaa/OneDrive%20-%20The%20University%20of%20Melbourne/Desktop/Data_Science_Projects/MLProjectMLflow/mlruns/0/461d63e279944a41832fa3b499a1ac78/artifacts
+end_time: 1707870783078
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 461d63e279944a41832fa3b499a1ac78
+run_name: adaptable-shrew-973
+run_uuid: 461d63e279944a41832fa3b499a1ac78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707870780020
+status: 3
+tags: []
+user_id: nimaa
